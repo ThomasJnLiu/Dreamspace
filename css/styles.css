@@ -4,10 +4,27 @@ body{
 
 #title{
     color:white;
-    margin: 0 auto;
+    /* margin: 0 auto;
+    width:50%; */
     padding:1em;
-    width:50%;
+    text-align:center;
 }
 p{
     color:red;
+}
+
+#start{
+    color:white;
+    display:block;
+    text-align:center;
+    margin:auto;
+    padding:1em;
+    background-color:black;
+    width:25%;
+    border-radius:5px;
+}
+
+#content{
+    top:10em;
+    position:relative;
 }
