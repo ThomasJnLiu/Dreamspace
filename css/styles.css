@@ -1,0 +1,13 @@
+body{
+    background-color:blue;
+}
+
+#title{
+    color:white;
+    margin: 0 auto;
+    padding:1em;
+    width:50%;
+}
+p{
+    color:red;
+}
